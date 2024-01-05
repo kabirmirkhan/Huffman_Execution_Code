@@ -8,11 +8,12 @@ Python Program to show Huffman algorithm
 
 ## we used 'abca_abc_ab_a' as input and we can make the user input the text by choice.
 
-'''Py
+```py
 Using program
 # Initial value
 text ='abca_abc_ab_a'
 # Or user input value
 print('Please enter your text')
 text = input()
-'''
+
+```
